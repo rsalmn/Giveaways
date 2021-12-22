@@ -1,0 +1,25 @@
+{
+  "name": "RebelSols Giveaway Discord Bot",
+  "description": "the Discord bot for super cool support ticket stuff and more! Using discord.js Library",
+  "logo": "https://cdn.discordapp.com/avatars/773160902563594262/e91e40fcdc295e03e0915d9752cb4a41.png",
+  "repository": "https://github.com/GarudaProjects/Giveaway",
+  "stack": "heroku-20",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "A Secret Bot Token, Used To Login The BOT. Get The Token In Your App Settings.",
+      "required": true,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "A Prefix To Run Your Bot Commands.",
+      "required": true,
+      "value": ""
+      }
+    },
+  "keywords": ["node", "heroku", "discord"]
+}
