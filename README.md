@@ -1,16 +1,10 @@
 # GiveawayBot™
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+## Repository Statics
+<p align="center"><a href="https://github.com/GarudaProjects/Giveaways"><img src="https://github-readme-stats.vercel.app/api/pin?username=GarudaProjects&show_icons=true&theme=dracula&hide_border=true&repo=Giveaways"></a></p>
+<p align="center">
 ### A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and Seamless Giveaways within your very own Discord guild!
-## Links
-- ### This Giveaway Bot Was Created by [ZeroSync](https://youtube.com/c/ZeroSync/)
-- [Youtube Channel](https://www.youtube.com/c/ZeroSync)
-- [Support Server Link](https://discord.gg/ARu4hr6hJw)
-## Licensed Under
-### Creative Commons Zero v1.0 Universal
-[View the license here](https://github.com/ZeroDiscord/Giveaway/blob/master/LICENSE)
-#### Copyright 2021 © All Rights are Reserved 
-
 
 # Contributions
 
@@ -29,8 +23,8 @@ Please read [code of conduct](.github/CODE_OF_CONDUCT.md) for details on our cod
 ## Hosting 
 > ⚠  This bot needs a [Node.js v16+](https://nodejs.org/en/blog/release/v16.0.0/)  runtime to function since discord.js version 13 requires said node version to function.
 
-### [Host On Repl.it](https://repl.it/github/ZeroDiscord/Giveaway)
-### [Remix On Glitch](https://glitch.com/edit/#!/import/github/ZeroDiscord/Giveaway)
+### [Host On Repl.it](https://repl.it/github/GarudaProjects/Giveaways)
+### [Remix On Glitch](https://glitch.com/edit/#!/import/github/GarudaProjects/Giveaways)
 
 **Aliter**
 
