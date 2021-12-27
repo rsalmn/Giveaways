@@ -39,7 +39,7 @@ module.exports = {
             { name: 'Ping' , value: `Check the bot's websocket latency!\n > **Types: __\`slash\` / \`message\`__**`, inline: true },
           )
           .setTimestamp()
-          .setFooter(`Requested by ${interaction.user.username} | GiveawayBot™ v3 By ZeroSync`, interaction.user.displayAvatarURL());
+          .setFooter(`Requested by ${interaction.user.username} | GiveawayBot™ v1 By radensalman#3425`, interaction.user.displayAvatarURL());
         
           const components = (state) => [
             new MessageActionRow().addComponents(
