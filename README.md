@@ -31,11 +31,8 @@ npm install
 ```
 
 ### Step 2: Obtain a Bot Token From [Here](https://discord.com/developers) <br> <br>
-<kbd>
-</kbd>
 <b>
   
-
 ### Step 3 : Replace the Token in [config.json](https://github.com/GarudaProjects/Giveaways) <br>
 #### That's all! We Are Done! Now Simply host the Bot!
 
@@ -49,8 +46,7 @@ npm install -g pm2@latest
 pm2 start --name "Giveaway" index.js --watch
 ```
 
-# Features
-## Featuring | Slash Commands 
+## Feature | Slash Commands 
 <kbd>
   <img src="https://raw.githubusercontent.com/GarudaProjects/Giveaways/main/.image/IMG_20211227_185024.jpg">
 </kbd>
@@ -65,7 +61,10 @@ pm2 start --name "Giveaway" index.js --watch
   
 ### Featured ✨ Bonus Entries 
 <kbd>
-  <img src="https://zerosnap.000webhostapp.com/8eblx4sc.gif">
+  `bonusrole:` (role)</br>
+  `bonusamount:` (typing)</br>
+  `invite:` (invitation)</br>
+  `role:` (required role for joining giveaways)
 </kbd>
 <b>
 
