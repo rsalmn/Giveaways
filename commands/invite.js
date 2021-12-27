@@ -19,6 +19,6 @@ module.exports.run = async (client, message, args) => {
     .setDescription(`Invite ${client.user} to your server today & enjoy seamless giveaways with advvanced features!`)
     .setColor('#2F3136')
     .setTimestamp()
-    .setFooter(`Requested by ${message.author.tag} | GiveawayBot™ v1 By RSalman`, message.author.displayAvatarURL())
+    .setFooter(`Requested by ${message.author.tag} | GiveawayBot™ v1 By radensalman#3425`, message.author.displayAvatarURL())
     message.reply({ embeds: [invite], components: [row]});
 }
