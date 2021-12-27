@@ -26,7 +26,7 @@ module.exports = {
             { name: 'Resume' , value: `Resume a paused giveaway!\n > **Type: __\`slash\`__**`, inline: true },
           )
           .setTimestamp()
-          .setFooter(`Requested by ${interaction.user.username} | GiveawayBot™ v3 By ZeroSync`, interaction.user.displayAvatarURL());
+          .setFooter(`Requested by ${interaction.user.username} | GiveawayBot™ v1 By radensalman#3425`, interaction.user.displayAvatarURL());
         
         
           const general = new MessageEmbed()
