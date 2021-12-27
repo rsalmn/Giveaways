@@ -13,21 +13,6 @@ All contributions are welcomed, it is recommended to create an issue or reply in
 - Please read [contributing guide](.github/CONTRIBUTING.md) for details on this project.
 - Please respect the [pull request template](.github/PULL_REQUEST_TEMPLATE/pull_request_template.md) while submiting a pull request.
 
-# Code of Conduct
-
-Please read [code of conduct](.github/CODE_OF_CONDUCT.md) for details on our code of conduct.
-
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
-
-# You can run the bot in just a few steps! Let me show you how:
-## Hosting 
-> ⚠  This bot needs a [Node.js v16+](https://nodejs.org/en/blog/release/v16.0.0/)  runtime to function since discord.js version 13 requires said node version to function.
-
-### [Host On Repl.it](https://repl.it/github/GarudaProjects/Giveaways)
-### [Remix On Glitch](https://glitch.com/edit/#!/import/github/GarudaProjects/Giveaways)
-
-**Aliter**
-
 ### Step 1: Install the Dependencies:
 Linux 
 ```sh
@@ -47,12 +32,11 @@ npm install
 
 ### Step 2: Obtain a Bot Token From [Here](https://discord.com/developers) <br> <br>
 <kbd>
-  <img src="https://zerosnap.000webhostapp.com/2faykzzg.gif">
 </kbd>
 <b>
   
 
-### Step 3 : Replace the Token in [config.json](https://github.com/ZeroDiscord/Giveaway/blob/master/config.json) <br>
+### Step 3 : Replace the Token in [config.json](https://github.com/GarudaProjects/Giveaways) <br>
 #### That's all! We Are Done! Now Simply host the Bot!
 
 ### Run with node
@@ -68,7 +52,7 @@ pm2 start --name "Giveaway" index.js --watch
 # Features
 ## Featuring | Slash Commands 
 <kbd>
-  <img src="https://zerosnap.000webhostapp.com/ktfoi0f9.gif">
+  <img src="https://raw.githubusercontent.com/GarudaProjects/Giveaways/main/.image/IMG_20211227_185024.jpg">
 </kbd>
 <b>
   
