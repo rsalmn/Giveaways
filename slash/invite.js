@@ -13,7 +13,7 @@ module.exports = {
         new MessageButton()
         .setLabel('Support Server')
         .setStyle('LINK')
-        .setURL("https://discord.gg/ARu4hr6hJw"),
+        .setURL("https://discord.gg/rebelsols"),
     )
     let invite = new MessageEmbed()
     .setAuthor(`Invite ${client.user.username} `, client.user.avatarURL())
@@ -21,7 +21,7 @@ module.exports = {
     .setDescription(`Invite ${client.user} to your server today & enjoy seamless giveaways with advvanced features!`)
     .setColor('#2F3136')
     .setTimestamp()
-    .setFooter(`Requested by ${interaction.user.tag} | GiveawayBot™ v3 By ZeroSync`, interaction.user.displayAvatarURL())
+    .setFooter(`Requested by ${interaction.user.tag} | GiveawayBot™ v1 By radensalman#3425`, interaction.user.displayAvatarURL())
     interaction.reply({ embeds: [invite], components: [row]});
 }
 }
