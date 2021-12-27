@@ -61,10 +61,12 @@ pm2 start --name "Giveaway" index.js --watch
   
 ### Featured ✨ Bonus Entries 
 <kbd>
+```
   bonusrole: (role)</br>
   bonusamount: (typing)</br>
   invite: (invitation)</br>
   role: (required role for joining giveaways)
+```
 </kbd>
 <b>
 
