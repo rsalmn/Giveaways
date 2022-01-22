@@ -8,7 +8,7 @@ module.exports = {
     .setDescription(
       `Your entry to [This Giveaway](https://discord.com/channels/${giveaway.guildId}/${giveaway.channelId}/${giveaway.messageId}) has been approved!`
     )
-    .setFooter("RadenSalman Ganteng!")
+    .setFooter("giveaway#4860")
     .setTimestamp()
    let denied =  new Discord.MessageEmbed()
     .setTimestamp()
@@ -17,7 +17,7 @@ module.exports = {
     .setDescription(
       `Your entry to [This Giveaway](https://discord.com/channels/${giveaway.guildId}/${giveaway.channelId}/${giveaway.messageId}) has been denied, please review the requirements to the giveaway properly.`
     )
-    .setFooter("RadenSalman Ganteng")
+    .setFooter("giveaway#4860")
 
     let client = messageReaction.message.client
     if (reactor.user.bot) return;
