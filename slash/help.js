@@ -8,7 +8,7 @@ module.exports = {
         .setTitle(`Commands of ${client.user.username}`)
         .setColor('#2F3136')
         .setDescription('**Please Select a category to view all its commands**')
-        .addField(`Links:`,`- [Telegram Airdrop Channel](https://t.me/AirdropAnns)\n- [Author](https://twitter.com/radensalman_a)\n- [*Ads - RebelSols NFT Server](https://discord.gg/rebelsols)`,true)
+        .addField(`Links:`,`> Author: radensalman#3425`,true)
         .setTimestamp()
         .setFooter(`Requested by ${interaction.user.username} | GiveawayBot™ v1 By radensalman#3425`, interaction.user.displayAvatarURL());
         
