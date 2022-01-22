@@ -11,7 +11,7 @@ module.exports.run = async (client, message, args) => {
         new MessageButton()
         .setLabel('RebelSols')
         .setStyle('LINK')
-        .setURL("https://discord.gg/RebelSols"),
+        .setURL("https://discord.gg/UAKFkf8nmy"),
     )
     let invite = new MessageEmbed()
     .setAuthor(`Invite ${client.user.username} `, client.user.avatarURL())
